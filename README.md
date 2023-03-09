@@ -1,4 +1,3 @@
-### Hi there Welcome 👋
 Hi 👋 My name is Juan Felipe Chiquito
 ==========================
 
@@ -6,13 +5,22 @@ Full Stack Developer
 --------------------
 ![habilidades-desarrollador-web](https://user-images.githubusercontent.com/58018580/224174060-f208c5c3-014c-4347-b9ad-3bf743c49d5b.jpg)
 
+📘Text in English:
 
+➡️ I am a Full Stack Developer. Passionate about new technologies and the infinite projects that can be done with a computer. Every day I try to try new challenges in search of increasing my knowledge so I would like to show you some of my personal and group achievements, which you will find below.
 
-I'm a Full Stack Developer with an orientation to the Front-End. I am passionate about software development and everything that can be done with just a computer and knowledge. I've been learning how to code since 2021, i went trough programing lenguajes AND Library´s like js, React, Redux and which i liked the most JavaScript ❤ Here in my profile, you will find some personal information to get on contact, some personal projects and other practical challenges.
+* 🇨🇴 I am based in Bogota, Colombia.
+* ✉ You can contact me at [felipechiquito010@gmail.com]
+* ⚡I trust in my skills and strengths when it comes to start developing   a project giving 100% of me, seeking to promote a good work environment that allows group and personal growth.
 
-* 🌍  I'm based in Tehuacan, Puebla, Mexico
-* ✉  You can contact me at [abisplash.26@outlook.com](mailto:abisplash.26@outlook.com)
-* ⚡  I consider myself as a proactive person, always trying to improve day by day. I love learning from others as much as being able to help them and be in constant collaboration
+📗 Texto en Español:
+
+➡️ Soy Desarrollador Full Stack. Apasionado de las nuevas tecnologías y de los infinitos proyectos que se pueden hacer con un ordenador. Cada día intento probar nuevos retos en busca de aumentar mis conocimientos por lo que me gustaría mostrarles algunos de mis logros personales y grupales, los cuales encontrarán a continuación.
+
+* 🇨🇴 Estoy radicado en Bogotá, Colombia.
+* ✉ Puedes contactarme en [felipechiquito010@gmail.com]
+* ⚡Confío en mis habilidades y fortalezas a la hora de empezar a desarrollar un proyecto dando el 100% de mí, buscando promover un buen ambiente de trabajo que permita el crecimiento grupal y personal.
+
 
 ### Skills
 
