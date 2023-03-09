@@ -4,7 +4,7 @@ Hi 👋 My name is Juan Felipe Chiquito
 
 Full Stack Developer
 --------------------
-https://github.com/Jfelipechiquito/jfelipechiquito/issues/1#issue-1618073201
+![habilidades-desarrollador-web](https://user-images.githubusercontent.com/58018580/224174060-f208c5c3-014c-4347-b9ad-3bf743c49d5b.jpg)
 
 
 
