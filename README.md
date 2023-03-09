@@ -4,7 +4,7 @@ Hi 👋 My name is Juan Felipe Chiquito
 
 Full Stack Developer
 --------------------
-<div style="width:100%;height:0;padding-bottom:92%;position:relative;"><iframe src="https://giphy.com/embed/i1JHRZSXO9LZZDHqii" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/DronaHQ-automation-nocode-lowcode-i1JHRZSXO9LZZDHqii">via GIPHY</a></p>
+https://github.com/Jfelipechiquito/jfelipechiquito/issues/1#issue-1618073201
 
 
 
